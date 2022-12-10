@@ -1,0 +1,57 @@
+@import "variables.scss";
+@import "mixins.scss";
+@import "functions.scss";
+
+.navbar-nav{
+    margin-left: 20.375rem !important;
+    
+}
+.navbar{
+    background-color: $color-nav ;
+    height:5.18rem ;
+}
+.nav-link{
+    font-size:2.25rem ;
+    color: $color-link;
+    font-family: "Lato-Regular";
+    margin-left: 5.93rem;
+}
+.title{
+    font-size: 3rem;
+    font-family: "PlayfairDisplaySC-Bold";
+}
+.title1{
+   @extend .title;
+    color: $title-color;
+
+}
+
+.footer{
+    height: 7.25rem;
+    background-color:$color-nav ;
+}
+.bi-instagram{
+    font-size: $fontF;
+}
+.bi-github{
+    font-size: $fontF;
+}
+.bi-discord{
+    font-size: $fontF;
+}
+.bi-slack{
+    font-size: $fontF;
+}
+.bi-youtube{
+    font-size: $fontF;
+}
+.section03{
+    position: relative;
+    top: 2.3rem;
+}
+.section04{
+    width: 100%;
+}
+.text{
+    color: $colorText;
+}

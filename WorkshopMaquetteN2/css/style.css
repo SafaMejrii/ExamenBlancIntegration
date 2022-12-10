@@ -1,0 +1,64 @@
+.navbar-nav {
+  margin-left: 20.375rem !important;
+}
+
+.navbar {
+  background-color: #f4f4f4;
+  height: 5.18rem;
+}
+
+.nav-link {
+  font-size: 2.25rem;
+  color: #616060;
+  font-family: "Lato-Regular";
+  margin-left: 5.93rem;
+}
+
+.title, .title1 {
+  font-size: 3rem;
+  font-family: "PlayfairDisplaySC-Bold";
+}
+
+.title1 {
+  color: #151515;
+}
+
+.footer {
+  height: 7.25rem;
+  background-color: #f4f4f4;
+}
+
+.bi-instagram {
+  font-size: 1.3rem;
+}
+
+.bi-github {
+  font-size: 1.3rem;
+}
+
+.bi-discord {
+  font-size: 1.3rem;
+}
+
+.bi-slack {
+  font-size: 1.3rem;
+}
+
+.bi-youtube {
+  font-size: 1.3rem;
+}
+
+.section03 {
+  position: relative;
+  top: 2.3rem;
+}
+
+.section04 {
+  width: 100%;
+}
+
+.text {
+  color: #bc694e;
+}
+
+/*# sourceMappingURL=style.css.map */
